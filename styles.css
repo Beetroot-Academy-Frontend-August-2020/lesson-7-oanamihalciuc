@@ -1,0 +1,23 @@
+* {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+.parent {
+    box-sizing: border-box;
+    width: 540px;
+    height: 546px;
+    border: 1px solid white; 
+}
+
+span.a, span.b, span.c, span.d, span.e, span.f, span.g, span.h {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+    border: 1px solid white; 
+    margin: 1px;
+}
